@@ -1,0 +1,6 @@
+{
+  "homepage": "https://andywangtw.dev/link",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
